@@ -25,56 +25,63 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-mkdir my-folder
 
-[](./1.png)
+![alt text](1.png)
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-rmdir my-folder
 
-[](./2.png)
+![alt text](2.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-[](./3.png)
+
+![alt text](3.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
-[](./4.png)
+![alt text](4.png)
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![alt text](4.png)
+
+![alt text](5.png)
+
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+
+![alt text](6.png)
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 
+![alt text](7.png)
+
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
+![alt text](8.png)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 
+![alt text](9.png)
+
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
-
-
-
-
 ## OUTPUT
+
+![alt text](10.png)
 
 
 
@@ -90,7 +97,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![alt text](11.png)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -100,7 +107,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-
+![alt text](12.png)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -113,6 +120,8 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+![alt text](13.png)
+
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -123,7 +132,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-
+![alt text](14.png)
 
 # RESULT:
 The commands/batch files are executed successfully.
