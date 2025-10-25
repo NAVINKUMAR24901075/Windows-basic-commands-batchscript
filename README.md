@@ -25,25 +25,31 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+mkdir my-folder
+
+[](./1.png)
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
+rmdir my-folder
 
+[](./2.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-
+[](./3.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+[](./4.png)
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](4.png)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
